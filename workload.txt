@@ -1,0 +1,3 @@
+./cpubound
+./iobound
+/bin/echo Finished
